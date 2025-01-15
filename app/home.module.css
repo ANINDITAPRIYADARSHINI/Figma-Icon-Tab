@@ -1,5 +1,10 @@
-.imgType{
+.img{
     position: relative;
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-between;
 }
