@@ -1,10 +1,14 @@
+.imgContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: auto;
+    gap: 10px;
+}
+
 .img{
     position: relative;
     width: 20px;
     height: 20px;
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    align-items: center;
-    justify-content: space-between;
+    
 }
