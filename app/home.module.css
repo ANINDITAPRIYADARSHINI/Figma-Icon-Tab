@@ -1,16 +1,11 @@
-.imgContainer{
-    border: 20px;
-    border-color: antiquewhite;
-}
+
 
 .img{
     position: relative;
     width: 20px;
     height: 20px;
-    animation-duration: 5s;
     display: flex;
     flex-direction: row;
-    align-items:first baseline;
     justify-content: space-between;
     gap: 20px;
 }
