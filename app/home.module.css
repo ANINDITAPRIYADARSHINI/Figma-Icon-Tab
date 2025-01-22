@@ -10,7 +10,8 @@
     animation-duration: 5s;
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items:first baseline;
     justify-content: space-between;
     gap: 20px;
+
 }
